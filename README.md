@@ -1,4 +1,4 @@
-![giphy](https://github.com/skijl/skijl/assets/128129267/8244fe69-acec-4733-81f3-3a6183162568)
+![xK](https://github.com/skijl/skijl/assets/128129267/d71263c2-a13c-4411-8e5b-4ebdaa1e91f9)
 <h1 align="center">Hi 👋, I'm Maksym Makhrevych</h1>
 <h3 align="center">A Java Developer from Chicago, IL</h3>
 
