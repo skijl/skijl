@@ -1,6 +1,6 @@
 ![xK](https://github.com/skijl/skijl/assets/128129267/d71263c2-a13c-4411-8e5b-4ebdaa1e91f9)
 <h1 align="center">Hi 👋, I'm Maksym Makhrevych</h1>
-<h3 align="center">A Java Developer from Chicago, IL</h3>
+<h3 align="center">Java Developer from Chicago, IL</h3>
 
 - 🔭 I’m currently working on [Microsgen](https://github.com/skijl/Microservice-Generator) - advanced app that generates microservices in SpringBoot (you can try it out)
 
