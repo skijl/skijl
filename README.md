@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maksym Makhrevych</h1>
 <h3 align="center">Java Developer from Chicago, IL</h3>
 
-- 🔭 I’m currently working on [Microsgen](https://github.com/skijl/Microservice-Generator) - advanced app that generates microservices in SpringBoot (you can try it out)
+- 🔭 I’m currently working on [Microsgen](https://github.com/skijl/Microservice_Generator) - advanced app that generates microservices in SpringBoot (you can try it out)
 
 - 📫 How to reach me **makhrevychmaxim@gmail.com**
 
